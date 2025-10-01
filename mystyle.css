@@ -1,0 +1,31 @@
+/* Apply background color to the whole page */
+body {
+background-color: lemonchiffon;
+font-family: Arial, sans-serif;
+}
+/* Make all paragraphs blue */
+p {
+color: blue;
+font-size: 18px;
+font-family: 'Times New Roman', Times, serif;
+}
+/* Make the main heading red */
+h1 {
+color: red;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'ArialBold', sans-serif;
+font-weight: 100;
+}
+
+/* Make figure-captions dark slate grey */
+figcaption {
+color: darkslategray;
+text-align: center;
+font-weight: bold;
+}
+
+/* Make numbered lists brown */
+ol {
+color: brown;
+font-size: large;
+}
